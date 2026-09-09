@@ -15,6 +15,11 @@
       YouTube
     </a>
     ·
+    <a href="https://x.com/JayrrDev">
+      <img src="assets/icons/lucide-x-dark.svg" width="16" height="16" alt="">
+      X
+    </a>
+    ·
     <a href="https://github.com/Jayrr-Dev">
       <img src="assets/icons/lucide-github-dark.svg" width="16" height="16" alt="">
       GitHub
