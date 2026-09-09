@@ -20,6 +20,11 @@
       X
     </a>
     ·
+    <a href="https://www.linkedin.com/in/samuelsoriano/">
+      <img src="assets/icons/lucide-linkedin-dark.svg" width="16" height="16" alt="">
+      LinkedIn
+    </a>
+    ·
     <a href="https://github.com/Jayrr-Dev">
       <img src="assets/icons/lucide-github-dark.svg" width="16" height="16" alt="">
       GitHub
