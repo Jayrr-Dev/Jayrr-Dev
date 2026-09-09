@@ -3,10 +3,16 @@
 <div align="center">
   <img src="assets/icons/lucide-code-dark.svg" width="36" height="36" alt="">
   <h1>Jayrr Dev</h1>
+  <p>Building with AI made simple</p>
   <p>
     <a href="https://jayrr.dev">
       <img src="assets/icons/lucide-globe-dark.svg" width="16" height="16" alt="">
       jayrr.dev
+    </a>
+    ·
+    <a href="https://www.youtube.com/@jayrrdev">
+      <img src="assets/icons/lucide-youtube-dark.svg" width="16" height="16" alt="">
+      YouTube
     </a>
     ·
     <a href="https://github.com/Jayrr-Dev">
@@ -26,9 +32,7 @@
   </p>
 </div>
 
-I build SaaS products and small tools that take repetitive work off someone's plate. Most of that is Next.js, React, and TypeScript. When the browser is the wrong place for the job, I ship a desktop app instead.
-
-Six years of full-stack work.
+I will teach you how to build with AI for your business. I share the secrets I have learned from building products with AI over the past 7 years.
 
 <table>
   <tr>
