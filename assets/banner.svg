@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Jayrr Dev">
+  <rect width="1200" height="280" fill="#0b1220"/>
+  <rect x="0" y="0" width="8" height="280" fill="#38bdf8"/>
+  <text x="48" y="132" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Jayrr Dev</text>
+  <text x="48" y="178" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="22">Next.js, TypeScript, SaaS, and desktop automation</text>
+</svg>
