@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,supabase,tailwind,vercel,github" alt="TypeScript, React, Next.js, Node, Supabase, Tailwind, Vercel, GitHub" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,supabase,tailwind,vercel,github&theme=dark" alt="TypeScript, React, Next.js, Node, Supabase, Tailwind, Vercel, GitHub" />
 </p>
 
 I build SaaS products and small tools that take repetitive work off someone's plate. Most of that is Next.js, React, and TypeScript. When the browser is the wrong place for the job, I ship a desktop app instead.
@@ -33,6 +33,6 @@ Site for learning how to use and build AI tools. [aifluently-com.vercel.app](htt
 ## Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jayrr-Dev&show_icons=true&theme=transparent&hide_border=true" alt="Jayrr-Dev GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayrr-Dev&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayrr-Dev&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" alt="Jayrr-Dev GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayrr-Dev&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Top languages" />
 </p>
