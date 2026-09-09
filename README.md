@@ -34,27 +34,17 @@
 
 I will teach you how to build with AI for your business. I share the secrets I have learned from building products with AI over the past 7 years.
 
+Most of that work is private. SaaS products, internal tools, and client apps. GitHub only shows the small public slice.
+
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Featured work</h3>
+      <h3>What I build</h3>
       <ul>
-        <li>
-          <a href="https://github.com/Jayrr-Dev/DataEntryAutonoma">Data Entry Autonoma</a><br>
-          Record a data-entry sequence once, then replay it with presets and CSV batches. Standalone Windows exe.
-        </li>
-        <li>
-          <a href="https://github.com/Jayrr-Dev/AgenitiX">AgenitiX</a><br>
-          Visual AI workflow builder. Next.js, Convex, TypeScript. <a href="https://agenitix.vercel.app">agenitix.vercel.app</a>
-        </li>
-        <li>
-          <a href="https://github.com/Jayrr-Dev/dyslexia-tts-cursor-extension">Dyslexia TTS</a><br>
-          Reads selected code or chat aloud in Cursor and VS Code. Press <kbd>Alt</kbd> + <kbd>X</kbd>. No API key.
-        </li>
-        <li>
-          <a href="https://github.com/Jayrr-Dev/aifluently.com">AI Fluently</a><br>
-          Site for learning how to use and build AI tools. <a href="https://aifluently-com.vercel.app">aifluently-com.vercel.app</a>
-        </li>
+        <li>Private SaaS: billing, auth, dashboards, the unglamorous product work</li>
+        <li>Internal ops tools for real companies (hours, payroll-adjacent workflows, the stuff staff use every day)</li>
+        <li>AI product features: agents, workflows, ranking, visual teaching tools</li>
+        <li>Next.js and TypeScript end to end, including the desktop utilities when a browser is the wrong place</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -70,10 +60,15 @@ I will teach you how to build with AI for your business. I share the secrets I h
 </table>
 
 <details>
-<summary>Other public work</summary>
+<summary>Public side projects</summary>
 
-- [keyviz-custom](https://github.com/Jayrr-Dev/keyviz-custom): Keyviz fork with hotkey labels, draw mode, and a multi-monitor overlay
-- [Taroter-paddle](https://github.com/Jayrr-Dev/Taroter-paddle): Next.js + Supabase billing starter
+These are the repos I can link. They are not the main body of work.
+
+- [Data Entry Autonoma](https://github.com/Jayrr-Dev/DataEntryAutonoma): record a data-entry sequence and replay it, including CSV batches
+- [AgenitiX](https://github.com/Jayrr-Dev/AgenitiX): visual AI workflow builder ([agenitix.vercel.app](https://agenitix.vercel.app))
+- [Dyslexia TTS](https://github.com/Jayrr-Dev/dyslexia-tts-cursor-extension): read code or chat aloud in Cursor and VS Code. Press <kbd>Alt</kbd> + <kbd>X</kbd>
+- [AI Fluently](https://github.com/Jayrr-Dev/aifluently.com): learning site for using and building AI tools
+- [keyviz-custom](https://github.com/Jayrr-Dev/keyviz-custom): Keyviz fork with hotkey labels and a multi-monitor overlay
 - [learn-visually](https://github.com/Jayrr-Dev/learn-visually): [learn-visually.vercel.app](https://learn-visually.vercel.app)
 
 </details>
