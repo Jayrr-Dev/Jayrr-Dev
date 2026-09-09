@@ -1,77 +1,28 @@
 <a name="top"></a>
 
-<!--
-  Profile README. Layout from https://readmedesign.com/blog/github-markdown-tips-tricks
-  Icons from Iconify: Lucide (ISC) and Skill Icons (MIT) https://icon-sets.iconify.design/
--->
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-dark.svg" alt="Jayrr Dev" width="100%">
-  </picture>
-
+  <img src="assets/icons/lucide-code-dark.svg" width="36" height="36" alt="">
+  <h1>Jayrr Dev</h1>
   <p>
     <a href="https://jayrr.dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/lucide-globe-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="assets/icons/lucide-globe-light.svg">
-        <img src="assets/icons/lucide-globe-dark.svg" width="18" height="18" alt="">
-      </picture>
+      <img src="assets/icons/lucide-globe-dark.svg" width="16" height="16" alt="">
       jayrr.dev
     </a>
-    &nbsp;·&nbsp;
+    ·
     <a href="https://github.com/Jayrr-Dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/lucide-github-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="assets/icons/lucide-github-light.svg">
-        <img src="assets/icons/lucide-github-dark.svg" width="18" height="18" alt="">
-      </picture>
+      <img src="assets/icons/lucide-github-dark.svg" width="16" height="16" alt="">
       GitHub
     </a>
   </p>
-
   <p>
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="assets/icons/skill-typescript.svg">
-      <img src="assets/icons/skill-typescript.svg" width="40" height="40" alt="TypeScript">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/skill-react-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icons/skill-react-light.svg">
-      <img src="assets/icons/skill-react-dark.svg" width="40" height="40" alt="React">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/skill-nextjs-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icons/skill-nextjs-light.svg">
-      <img src="assets/icons/skill-nextjs-dark.svg" width="40" height="40" alt="Next.js">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/skill-nodejs-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icons/skill-nodejs-light.svg">
-      <img src="assets/icons/skill-nodejs-dark.svg" width="40" height="40" alt="Node.js">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/skill-supabase-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icons/skill-supabase-light.svg">
-      <img src="assets/icons/skill-supabase-dark.svg" width="40" height="40" alt="Supabase">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/skill-tailwind-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icons/skill-tailwind-light.svg">
-      <img src="assets/icons/skill-tailwind-dark.svg" width="40" height="40" alt="Tailwind">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/skill-vercel-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icons/skill-vercel-light.svg">
-      <img src="assets/icons/skill-vercel-dark.svg" width="40" height="40" alt="Vercel">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/skill-github-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/icons/skill-github-light.svg">
-      <img src="assets/icons/skill-github-dark.svg" width="40" height="40" alt="GitHub">
-    </picture>
+    <img src="assets/icons/skill-typescript.svg" width="40" height="40" alt="TypeScript">
+    <img src="assets/icons/skill-react-dark.svg" width="40" height="40" alt="React">
+    <img src="assets/icons/skill-nextjs-dark.svg" width="40" height="40" alt="Next.js">
+    <img src="assets/icons/skill-nodejs-dark.svg" width="40" height="40" alt="Node.js">
+    <img src="assets/icons/skill-supabase-dark.svg" width="40" height="40" alt="Supabase">
+    <img src="assets/icons/skill-tailwind-dark.svg" width="40" height="40" alt="Tailwind">
+    <img src="assets/icons/skill-vercel-dark.svg" width="40" height="40" alt="Vercel">
+    <img src="assets/icons/skill-github-dark.svg" width="40" height="40" alt="GitHub">
   </p>
 </div>
 
@@ -124,16 +75,10 @@ Six years of full-stack work.
 </details>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jayrr-Dev&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jayrr-Dev&amp;show_icons=true&amp;theme=default&amp;hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jayrr-Dev&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" alt="Jayrr-Dev GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayrr-Dev&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayrr-Dev&amp;layout=compact&amp;theme=default&amp;hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayrr-Dev&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Top languages">
-  </picture>
+  <img src="https://img.shields.io/github/followers/Jayrr-Dev?style=flat&amp;logo=github&amp;label=Followers" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Jayrr-Dev?affiliations=OWNER%2CCOLLABORATOR&amp;style=flat&amp;logo=github&amp;label=Stars" alt="GitHub stars">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Jayrr-Dev&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub streak">
 </div>
 
 <p align="right"><a href="#top">Back to top</a></p>
